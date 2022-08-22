@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Markus Leitner"
-  avatar           : "MarkusLeitner.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "MarkusLeitner.png"
+  bio              : "Associate Professor, Department of Operations Analytics, Vrije Universiteit Amsterdam"
   location         : "Amsterdam, Netherlands"
   employer         : "Vrije Universiteit Amsterdam"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
