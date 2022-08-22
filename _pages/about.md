@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,29 @@ redirect_from:
   - /about.html
 ---
 
+I am an Associate Professor at the [Department of Operations Analytics](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/operations-analytics) at the [School of Business and Economics] (https://vu.nl/en/about-vu/faculties/school-of-business-and-economics) of the [Vrije Universiteit Amsterdam](https://vu.nl/en). I am also the current program director of the MSc program in [Transport & Supply Chain Management](https://vu.nl/en/education/master/transport-and-supply-chain-management), [VU Amsterdam](https://vu.nl/en).
+
+I received my PhD (Dr. techn.) in Computer Science from the [Vienna University of Technology](https://tuwien.ac.at) in 2010 and my habilitation (venia docendi) in Operations Research from the [University of Vienna](https://www.univie.ac.at/) in 2016. Since 2022, I also hold the ius promovendi from the School of Business and Economics] (https://vu.nl/en/about-vu/faculties/school-of-business-and-economics), [VU Amsterdam](https://vu.nl/en).
+
+Before joining VU Amsterdam, I was employed as a fixed term Assistant Professor (University Assistant) at the [University of Vienna](https://www.univie.ac.at) ([Department of Statistics and Operations Research](https://isor.univie.ac.at/)). Prior to that I was a postdoctoral researcher and lecturer at [Vienna University of Technology](https://tuwien.ac.at) ([Algorithms and Data Structures Group](https://www.ac.tuwien.ac.at/)), [University of Vienna](https://www.univie.ac.at/) ([Department of Statistics and Operations Research](https://isor.univie.ac.at)) and [Université libre de Bruxelles](https://www.ulb.be/en/ulb-homepage) ([Graphs and Mathematical Optimization Group](https://gom.ulb.ac.be)). 
+
+I am an Associate Editor of the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) (Area: Nework Optimization) and [Omega](https://www.sciencedirect.com/journal/omega) (Area: Production Management, Scheduling and Logistics) and a Member of Council of the [INFORMS Section on Telecommunication and Network Analytics](https://connect.informs.org/telecommanalytics/home#:~:text=The%20INFORMS%20Technical%20Section%20on,network%20planning%2C%20operation%20and%20management). I am also regularly involved in program committes of scientific conferences such as, e.g., INOC 2022, EURO 2019, INOC 2019, or the TSL Workshop 2019.
+
+ 
+Research
+======
+My main research interests include combinatorial optimization and operations research (exact and heuristic techniques). I develop and apply methods based on mixed integer programming to solve challenging problems arising in network design, transportation, logistics, social network analysis, or telecommunication. My research outcomes have been published in major international journals such as Mathematical Programming, Mathematics of Operations Research, Transportation Science, or Transportation Research B.
+
+Teaching
+======
+I am currently responsible for the courses [Integer Linear Programming](https://businessdatascience.nl/courses/611/integer-linear-programming) ([Research Master program in Business Data Science](https://businessdatascience.nl/home)), [Decomposition Methods](https://businessdatascience.nl/courses/639/decomposition-methods) ([Research Master program in Business Data Science](https://businessdatascience.nl/home)), [Decision Making in Supply Chains](https://studiegids.vu.nl/en/Master/2022-2023/transport-and-supply-chain-management/E_TSCM_DMSC#/) ([MSc in Transport & Supply Chain Managment](https://vu.nl/en/education/master/transport-and-supply-chain-management), and [Sustainable Management of Global Supply Chains](https://studiegids.vu.nl/en/Bachelor/2022-2023/international-business-administration/E_IBA2_SMG#/) ([BSc International Business Administration](https://vu.nl/en/education/bachelor/international-business-administration)).
+
+In the past, I have taught a variety of courses for bachelor, master, and PhD students such as Mathematical Programming, Operations Research II, Decision Support, Linear, Nonlinear, and Integer Optimization, Optimization under Uncertainty, Advanced Optimization, Game Theory, Graph Algorithms and Network Flows, or (Introduction to) Business Mathematics. 
+
+
+
+
+<!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +71,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
