@@ -11,8 +11,4 @@ author_profile: true
 
 {% endif %}
 
-# {% for post in site.talks reversed %}
-#  {% include archive-single-talk.html %}
-# {% endfor %}
-
 A list of recent talks and presentations will follow soon.

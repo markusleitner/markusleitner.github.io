@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students & Teaching"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
