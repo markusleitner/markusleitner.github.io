@@ -18,19 +18,18 @@ author_profile: true
 -->
 
 ## Submitted Articles
-
 1. M. Kahr, M. Leitner, M. Ljubic. The impact of passive social media users in (competitive) influence maximization, 2022.
-1. L. Gouveia, M. Leitner, M. Ruthmair. Multi-depot routing with split deliveries: Models and a branch-and-cut algorithm, 2021.
 1. M. Leitner, A. Lodi, R. Roberti, C. Sole. An Exact Method for (Constrained) Assortment Optimization Problems with Product Costs, 2021.
 1. M. Leitner, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis. An Exact Method for Fortification Games, 2021.
 
 ## Journal Articles
+1. L. Gouveia, M. Leitner, M. Ruthmair. Multi-depot routing with split deliveries: Models and a branch-and-cut algorithm, Transportation Science, accepted, 2022.
 1. E. Fernandez, M. Leitner, I. Ljubic, and M. Ruthmair: Arc routing with electric vehicles: dynamic charging and speed-dependent energy consumption, Transportation Science, to appear 2022.
 1. I. Bomze, M. Kahr, and M. Leitner. Trust your data or not – StQP remains StQP: community detection via robust standard quadratic optimization, Mathematics of Operations Research 46, 301-316, 2021.
 1. E. Güney, M. Leitner, M. Ruthmair, and Markus Sinnl. Large-scale influence maximization via maximal covering location, European Journal of Operational Research 289, 144-164, 2021.
+1. M. Kahr, M. Leitner, M. Ruthmair, and M. Sinnl. Benders decomposition for competitive influence maximization in (social) networks. Omega 100, 2021.
 1. G. Brandstätter, M. Leitner, and I. Ljubic. Location of charging stations in electric car sharing systems, Transportation Science 54, 1408-1438, 2020.
 1. L. Gouveia, M. Leitner, and I. Ljubic. A polyhedral study of the diameter constrained minimum spanning tree problem, Discrete Applied Mathematices 285, 364-379, 2020.
-1. M. Kahr, M. Leitner, M. Ruthmair, and M. Sinnl. Benders decomposition for competitive influence maximization in (social) networks. Omega 100, 2021.
 1. M. Leitner, I. Ljubic, M. Riedler, and M. Ruthmair. Exact approaches for the directed network design problem with relays, Omega 91, 2020.
 1. L. Gouveia, M. Leitner, and M. Ruthmair. Layered graph approaches for combinatorial optimization problems. Computers & Operations Research 102:22-38, 2019.
 1. M. Leitner, I. Ljubic, M. Riedler, and M. Ruthmair. Exact Approaches for Network Design Problems with Relays, INFORMS Journal on Computing 31(1):171-192, 2019.
