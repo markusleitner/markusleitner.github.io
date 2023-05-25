@@ -18,13 +18,16 @@ author_profile: true
 -->
 
 ## Submitted Articles
+1. A.B. Cinar, W. Dullaert, M. Leitner, R. Paradiso, S. Waldherr. The role of individual compenation and acceptance decisions in crowdsourced delivery, 2023.
+1. L. Gouveia, M. Leitner, I. Ljubic. Common-flow formulations for the diameter constrained spanning and Steiner tree problems, 2023.
 1. M. Kahr, M. Leitner, M. Ljubic. The impact of passive social media users in (competitive) influence maximization, 2022.
 1. M. Leitner, A. Lodi, R. Roberti, C. Sole. An Exact Method for (Constrained) Assortment Optimization Problems with Product Costs, 2021.
-1. M. Leitner, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis. An Exact Method for Fortification Games, 2021.
+
 
 ## Journal Articles
-1. L. Gouveia, M. Leitner, M. Ruthmair. Multi-depot routing with split deliveries: Models and a branch-and-cut algorithm, Transportation Science, accepted, 2022.
-1. E. Fernandez, M. Leitner, I. Ljubic, and M. Ruthmair: Arc routing with electric vehicles: dynamic charging and speed-dependent energy consumption, Transportation Science, to appear 2022.
+1. L. Gouveia, M. Leitner, M. Ruthmair. Multi-depot routing with split deliveries: Models and a branch-and-cut algorithm, Transportation Science 57, 512-530, 2023.
+1. M. Leitner, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis. An Exact Method for Fortification Games, European Journal of Operational Research 207, 1026-1039, 2023.
+1. E. Fernandez, M. Leitner, I. Ljubic, and M. Ruthmair: Arc routing with electric vehicles: dynamic charging and speed-dependent energy consumption, Transportation Science 56, 1219-1237, 2022.
 1. I. Bomze, M. Kahr, and M. Leitner. Trust your data or not – StQP remains StQP: community detection via robust standard quadratic optimization, Mathematics of Operations Research 46, 301-316, 2021.
 1. E. Güney, M. Leitner, M. Ruthmair, and Markus Sinnl. Large-scale influence maximization via maximal covering location, European Journal of Operational Research 289, 144-164, 2021.
 1. M. Kahr, M. Leitner, M. Ruthmair, and M. Sinnl. Benders decomposition for competitive influence maximization in (social) networks. Omega 100, 2021.

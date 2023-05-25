@@ -12,3 +12,13 @@ redirect_from:
 An up-to-date CV will be provided soon.
 
 
+## Professional Activities
+
+
+## Education
+
+
+
+
+
+
