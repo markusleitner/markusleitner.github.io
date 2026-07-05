@@ -18,21 +18,27 @@ author_profile: true
 -->
 
 ## Submitted Articles
-1. A.B. Cinar, W. Dullaert, M. Leitner, R. Paradiso, S. Waldherr. The role of individual compenation and acceptance decisions in crowdsourced delivery, 2023.
-1. L. Gouveia, M. Leitner, I. Ljubic. Common-flow formulations for the diameter constrained spanning and Steiner tree problems, 2023.
-1. M. Kahr, M. Leitner, M. Ljubic. The impact of passive social media users in (competitive) influence maximization, 2022.
-1. M. Leitner, A. Lodi, R. Roberti, C. Sole. An Exact Method for (Constrained) Assortment Optimization Problems with Product Costs, 2021.
+1. L. van Montfort, M. Leitner, R. Paradiso. An exact algorithm for vehicle routing problems with temporal dependency constraints, arXiv:2604.16064, 2026.
+1. A.B. Cinar, C. Archetti, W. Dullaert, M. Leitner, S. Waldherr. Pricing, bundling, and driver behavior in crowdsourced delivery, arXiv:2507.03634, 2025.
+1. B. Markhorst, M. Leitner, J. Berkhout, A. Zocca, R. van der Mei. A Two-Step Warm Start Method Used for Solving Large-Scale Stochastic Mixed-Integer Problems, arXiv preprint, 2024.
 
 
 ## Journal Articles
+1. C. Büsing, M. Leitner, S. Wrede. Cover-based inequalities for the single-source capacitated facility location problem with customer preferences, Computers & Operations Research 182, 107082, 2025.
+1. L. van Montfort, W. Dullaert, M. Leitner. Task-splitting in home healthcare routing and scheduling, Transportation Research Part E: Logistics and Transportation Review 202, 104235, 2025.
+1. A.B. Cinar, W. Dullaert, M. Leitner, R. Paradiso, S. Waldherr. The role of individual compensation and acceptance decisions in crowdsourced delivery, Transportation Research Part C: Emerging Technologies 169, 104834, 2024.
+1. M. Kahr, M. Leitner, I. Ljubic. The impact of passive social media viewers in influence maximization, INFORMS Journal on Computing 36(6), 1362-1381, 2024.
+1. M. Leitner, A. Lodi, R. Roberti, C. Sole. An Exact Method for (Constrained) Assortment Optimization Problems with Product Costs, INFORMS Journal on Computing 36(2), 479-494, 2024.
 1. L. Gouveia, M. Leitner, M. Ruthmair. Multi-depot routing with split deliveries: Models and a branch-and-cut algorithm, Transportation Science 57, 512-530, 2023.
-1. M. Leitner, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis. An Exact Method for Fortification Games, European Journal of Operational Research 207, 1026-1039, 2023.
+1. M. Leitner, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis. An Exact Method for (Binary) Fortification Games, European Journal of Operational Research 307, 1026-1039, 2023.
 1. E. Fernandez, M. Leitner, I. Ljubic, and M. Ruthmair: Arc routing with electric vehicles: dynamic charging and speed-dependent energy consumption, Transportation Science 56, 1219-1237, 2022.
 1. I. Bomze, M. Kahr, and M. Leitner. Trust your data or not – StQP remains StQP: community detection via robust standard quadratic optimization, Mathematics of Operations Research 46, 301-316, 2021.
 1. E. Güney, M. Leitner, M. Ruthmair, and Markus Sinnl. Large-scale influence maximization via maximal covering location, European Journal of Operational Research 289, 144-164, 2021.
 1. M. Kahr, M. Leitner, M. Ruthmair, and M. Sinnl. Benders decomposition for competitive influence maximization in (social) networks. Omega 100, 2021.
+1. B. Fortz, L. Gouveia, C. Büsing, and M. Leitner. Preface: Special issue on network analytics and optimization, Networks, 2021.
 1. G. Brandstätter, M. Leitner, and I. Ljubic. Location of charging stations in electric car sharing systems, Transportation Science 54, 1408-1438, 2020.
 1. L. Gouveia, M. Leitner, and I. Ljubic. A polyhedral study of the diameter constrained minimum spanning tree problem, Discrete Applied Mathematices 285, 364-379, 2020.
+1. L. Gouveia, M. Leitner, M. Ruthmair, and R. Sadykov. Corrigendum to "Extended formulations and branch-and-cut algorithms for the black-and-white traveling salesman problem", European Journal of Operational Research 285(3):1199-1203, 2020.
 1. M. Leitner, I. Ljubic, M. Riedler, and M. Ruthmair. Exact approaches for the directed network design problem with relays, Omega 91, 2020.
 1. L. Gouveia, M. Leitner, and M. Ruthmair. Layered graph approaches for combinatorial optimization problems. Computers & Operations Research 102:22-38, 2019.
 1. M. Leitner, I. Ljubic, M. Riedler, and M. Ruthmair. Exact Approaches for Network Design Problems with Relays, INFORMS Journal on Computing 31(1):171-192, 2019.
@@ -63,6 +69,7 @@ author_profile: true
 1. B. Hu, M. Leitner, and G.R. Raidl. Combining variable neighborhood search with integer linear programming for the generalized minimum spanning tree problem. Journal of Heuristics, 14(5):473-499, 2008.
 
 ## Book Chapters
+1. L. Gouveia, M. Leitner, and I. Ljubic. Common-Flow Formulations for the Diameter Constrained Spanning and Steiner Tree Problems. In Combinatorial Optimization and Applications: A Tribute to Bernard Gendron, pages 37-58, Springer, 2024.
 1. G. Brandstätter, C. Gambella, M. Leitner, E. Malaguti, F. Masini, J. Puchinger, M. Ruthmair, and D. Vigo. Overview of optimization problems in electric car-sharing system design and management. In H. Dawid et al., editors, Dynamic Perspectives on Managerial Decision Making. Springer, Berlin, 2016.
 
 
